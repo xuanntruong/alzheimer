@@ -134,7 +134,7 @@ elif options == "💎 Pricing":
     st.write("- Access to basic diagnostic features")
     st.write("- Limited report generation")
     
-    st.write("#### 🥇 Premium Plan - $4.99/month")
+    st.write("#### 🥇 Premium Plan - $9.99/month")
     st.write("- Access to advanced diagnostic features")
     st.write("- Unlimited report generation")
     st.write("- Access to priority customer support")
